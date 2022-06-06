@@ -95,6 +95,8 @@ Para solucionar el problema se ha creado un servicio que tiene las librerías de
  2. Cuando cargue el ambiente de trabajo, hacer clic en el botón verde de la parte superior izquierda que dice "Launch InditexDataApplication" ó, alternativamente,ir la opción de "Explorer" en el menú de la izquierda, posarse en la clase "InditexDataAppplication.java" y correr la con el botón derecho del mouse.
  ![Image](10.png)
 3. Van a aparecer algunos pop-up en la parte inferior de ella: dar aceptar. En uno de ellos va a aparecer uno en el que solicita abrir el puerto 8080.Una vez aceptado, el browser abrirá el root de la aplicación.
+
+
 4. En la URL se podrán probar las URLs:
    - Root de la aplicación: https://slancheros-inditex-data-4jvqjgx5hx75-8080.githubpreview.dev/
    - Ingreso a la admin de la base de datos h2 : https://slancheros-inditex-data-4jvqjgx5hx75-8080.githubpreview.dev/h2
