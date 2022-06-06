@@ -85,6 +85,11 @@ Para solucionar el problema se ha creado un servicio que tiene las librerías de
   
   El paquete en el que se encuentra el código es com.inditex.data, siguiendo la estructura de Maven.
   
+  #Ejecución
+  
+   Para ejecutar los differentes servicios puede hacerse uso de GitHub Codespaces siguiendo los siguientes pasos:
+   
+   1. En el repositorio, ir a la rama de Codespaces ya creada.
  
 
 
