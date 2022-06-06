@@ -1,5 +1,4 @@
-# inditex_data
-Prueba Inditex
+
 ## Prueba de Inditex
 
 Este repositorio contiene la respuesta a la prueba de Java de Inditex que se coloca en el enunciado
