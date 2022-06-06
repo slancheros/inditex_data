@@ -89,7 +89,24 @@ Para solucionar el problema se ha creado un servicio que tiene las librerías de
   
    Para ejecutar los differentes servicios puede hacerse uso de GitHub Codespaces siguiendo los siguientes pasos:
    
-   1. En el repositorio, ir a la rama de Codespaces ya creada.
- 
-
+   1. En el repositorio, ir a la rama de Codespaces ya creada. Hacer click en la rama llamada "scaling journey".
+   
+ ![Image](9.png)
+ 2. Cuando cargue el ambiente de trabajo, hacer clic en el botón verde de la parte superior izquierda que dice "Launch InditexDataApplication" ó, alternativamente,ir la opción de "Explorer" en el menú de la izquierda, posarse en la clase "InditexDataAppplication.java" y correr la con el botón derecho del mouse.
+ ![Image](10.png)
+3. Van a aparecer algunos pop-up en la parte inferior de ella: dar aceptar. En uno de ellos va a aparecer uno en el que solicita abrir el puerto 8080.Una vez aceptado, el browser abrirá el root de la aplicación.
+4. En la URL se podrán probar las URLs:
+   - Root de la aplicación: https://slancheros-inditex-data-4jvqjgx5hx75-8080.githubpreview.dev/
+   - Ingreso a la admin de la base de datos h2 : https://slancheros-inditex-data-4jvqjgx5hx75-8080.githubpreview.dev/h2
+   - Servicio que devuelve todos los contenidos de la tabla Price: https://slancheros-inditex-data-4jvqjgx5hx75-8080.githubpreview.dev/prices
+   - Servicios definidos para la solución de esta prueba; https://slancheros-inditex-data-4jvqjgx5hx75-8080.githubpreview.dev/prices/1/3455/2020-06-15T21:00:00), entre otras dependiendo de las pruebas que deban hacerser.
+  ![Image](13.png) 
+  ![Image](14.png) 
+  ![Image](15.png)
+  ![Image](16.png)
+ 5. Para ejecutar las pruebas automatizadas, seleccionar desde el "Explorer" la clase "InditexDataApplicationTests.java"
+  ![Image](17.png)
+  ![Image](18.png)
+  
+  Gracias!
 
